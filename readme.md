@@ -1,8 +1,6 @@
 # 用强化学习训练AI玩王者荣耀
  ## 说明
-一、这个项目由我之前的[AI玩王者荣耀](https://github.com/FengQuanLi/ResnetGPT) 项目发展而来。  
-    较之前的项目有进步，也更加复杂。用了强化学习的训练方法，并增加了一个判断回报状态的神经网络。  
- ### 注意! 这个项目处于试验阶段，再加上本人水平有限，所以并不完善，问题很多。
+一、用了SamLynnEvans Transformer 的源码的解码部分，pytorch自带的预训练模型"resnet101-5d3b4d8f.pth以及强化学习的训练方法，并增加了一个判断回报状态的神经网络。  
 二、运行环境和我之前的项目相似，请参考之前的项目，但还需要添加 PyQt5模块用于截图参考（requirements.txt）。  
 环境配置参考视频 1  
 链接：https://pan.baidu.com/s/1fJRyX-scxbeOJ2lsddTLiA   
